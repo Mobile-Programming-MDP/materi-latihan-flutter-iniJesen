@@ -7,7 +7,6 @@ class ProfileInfoItem extends StatelessWidget {
   final bool showEditIcon;
   final VoidCallback? onEditPressed;
   final Color iconColor;
-
   const ProfileInfoItem({
     super.key,
     required this.icon,
